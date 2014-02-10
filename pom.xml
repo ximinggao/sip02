@@ -34,7 +34,7 @@ Code: https://github.com/springinpractice
 	
 	<properties>
 		<chapter.number>02</chapter.number>
-		<chapter.conf.dir>${sip.conf.dir}/sip${chapter.number}</chapter.conf.dir>
+		<!-- <chapter.conf.dir>${sip.conf.dir}/sip${chapter.number}</chapter.conf.dir> -->
 	</properties>
 	
 	<dependencies>
